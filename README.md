@@ -1,6 +1,6 @@
 # Denorite Server
 
-A Deno WebSocket server that bridges the gap between Minecraft and TypeScript, enabling real-time event monitoring and command execution.
+A Deno WebSocket server library that bridges the gap between Minecraft and TypeScript, enabling real-time event monitoring and command execution.
 
 ## Features
 
@@ -13,7 +13,7 @@ A Deno WebSocket server that bridges the gap between Minecraft and TypeScript, e
 
 ## Requirements
 
-- Deno 2.0 or higher
+- Deno 2.0 or higher (can made to work with Node too)
 - [Denorite Mod](https://github.com/denorite/mod) installed on your Minecraft server
 
 ## Installation
@@ -142,4 +142,4 @@ The server includes robust error handling:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial License - see the LICENSE file for details.
